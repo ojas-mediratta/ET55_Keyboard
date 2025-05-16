@@ -68,5 +68,14 @@ Feel free to fork and add combos, tap‑dance, or VIA support.
 * [Hand‑Wired Guide](https://beta.docs.qmk.fm/tutorial/newbs_handwire) – official QMK hand‑wiring tutorial
 * CAD, PCB, and firmware files are located in their respective folders in this repository—feel free to fork and improve.
 ---
+## Photos and Videos
+
+![Photo 1](IMG_9421.jpeg)
+![Photo 2](IMG_9422.jpeg)
+![Photo 3](IMG_9423.jpeg)
+![Photo 4](IMG_9430.jpeg)
+![Photo 5](IMG_9433.jpeg)
+![Photo 6](IMG_9456.jpeg)
+![Photo 7](IMG_9457.jpeg)
 
 *Project by **Ojas Mediratta**, Spring 2025 – Georgia Institute of Technology, ECE 4180.*
