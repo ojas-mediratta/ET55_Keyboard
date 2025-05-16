@@ -79,4 +79,4 @@ Feel free to fork and add combos, tap‑dance, or VIA support.
 <img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9457.jpeg" width="400" height="300"/>
 
 
-*Project by **Ojas Mediratta**, Spring 2025 – Georgia Institute of Technology, ECE 4180.*
+*Project by **Ojas Mediratta**, Fall 2024 – Georgia Institute of Technology, ECE 4180.*
