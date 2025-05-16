@@ -70,13 +70,13 @@ Feel free to fork and add combos, tap‑dance, or VIA support.
 ---
 ## Photos and Videos
 
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9421.jpeg" width="300" height="350"/>
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9422.jpeg" width="300" height="350"/>
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9423.jpeg" width="300" height="350"/>
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9430.jpeg" width="300" height="350"/>
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9433.jpeg" width="300" height="350"/>
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9456.jpeg" width="300" height="350"/>
-<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9457.jpeg" width="300" height="350"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9421.jpeg" width="400" height="300"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9422.jpeg" width="400" height="300"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9423.jpeg" width="400" height="300"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9430.jpeg" width="400" height="300"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9433.jpeg" width="400" height="300"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9456.jpeg" width="400" height="300"/>
+<img src="https://github.com/ojas-mediratta/ET55_Keyboard/blob/master/images/IMG_9457.jpeg" width="400" height="300"/>
 
 
 *Project by **Ojas Mediratta**, Spring 2025 – Georgia Institute of Technology, ECE 4180.*
